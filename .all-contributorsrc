@@ -1,0 +1,44 @@
+{
+  "projectName": "wasteofpostexplorer",
+  "projectOwner": "imadeanaccount1",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "imadeanaccount1",
+      "name": "imadeanaccount",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138229538?v=4",
+      "profile": "https://github.com/imadeanaccount1",
+      "contributions": [
+        "code",
+        "ideas",
+        "review",
+        "design"
+      ]
+    },
+    {
+      "login": "radeeyate",
+      "name": "radeeyate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124477460?v=4",
+      "profile": "http://radi8.dev",
+      "contributions": [
+        "data",
+        "code",
+        "infra"
+      ]
+    },
+    {
+      "login": "8BitOSC",
+      "name": "8Bit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75950907?v=4",
+      "profile": "http://8bitosc.net",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
